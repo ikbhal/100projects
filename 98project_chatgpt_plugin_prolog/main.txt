@@ -1,0 +1,2 @@
+create chat plugin to store facts, rules,
+run the rules
