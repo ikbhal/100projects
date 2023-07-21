@@ -1,0 +1,49 @@
+
+
+echo '<!doctype html><title>Page title</title><p>Hi</p>' > index.html
+
+echo '# Page header' > README.md
+
+npx @11ty/eleventy
+
+---
+npx @11ty/eleventy --serve
+
+---
+
+http://localhost:8080/ 
+
+
+or
+
+ http://localhost:8080/README/
+
+---
+
+https://app.netlify.com/drop
+
+Check it out!
+👇
+https://vermillion-kitten-88a2f3.netlify.app
+
+Your site will be live for 1 hour.
+
+To keep your Netlify sites online, create a free account.
+
+
+---
+
+https://www.11ty.dev/docs/getting-started/
+ CONTINUE LEARNING… JUMP TO HEADING#
+Congratulations—you made something with Eleventy! Now put it to work:
+
+Use a layout file so that you don’t have to repeat boilerplate on every template.
+Add CSS, JavaScript, or Web Fonts to your project.
+Add more content! In the above tutorial we used HTML and Markdown. Why not JavaScript or WebC (for components) next? Nunjucks and Liquid are also very popular. Maybe you’re feeling super adventurous and want to add your own custom type?.
+Learn more of the command line options for Eleventy.
+Perhaps you’d like to consume data from third party APIs in your project?
+
+---
+https://www.11ty.dev/docs/starter/
+
+https://www.11ty.dev/docs/tutorials/

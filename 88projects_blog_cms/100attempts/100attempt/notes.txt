@@ -1,0 +1,6 @@
+https://tina.io/docs/introduction/using-starter/
+
+npx create-tina-app@latest
+
+cd my-tina-app
+yarn dev

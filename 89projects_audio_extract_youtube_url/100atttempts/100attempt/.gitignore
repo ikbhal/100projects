@@ -1,0 +1,27 @@
+# Flask related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+*.so
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.swp
+
+# Dependency directories
+venv/
+env/
+
+# Compiled files
+*.pyc
+
+# Environment variables file
+.env

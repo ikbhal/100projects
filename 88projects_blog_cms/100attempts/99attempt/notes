@@ -1,0 +1,18 @@
+
+echo '# Page header' > index.md
+
+npx @11ty/eleventy
+
+npx @11ty/eleventy --serve
+
+http://localhost:8080/
+
+--
+Read our full Getting Started guide.
+    https://www.11ty.dev/docs/getting-started/
+
+Watch 6 minutes to Build a Blog from Scratch.
+    https://www.youtube.com/watch?v=kzf9A9tkkl4
+
+Head over to the Documentation for v2.0.1.
+    https://www.11ty.dev/docs/
